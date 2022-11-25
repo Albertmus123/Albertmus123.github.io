@@ -7,6 +7,9 @@ Name:Musabyemungu Albert
 
 https://albertmus123.github.io/web-styling-Albertmus123/index.html 
 
+https://Albertmus123.github.io/web-styling-Albertmus123/index.html
+
+
 ## Instructions
 
 - Recreate the web page indicated in the web_demo folder
